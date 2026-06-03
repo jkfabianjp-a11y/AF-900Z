@@ -34,3 +34,8 @@ Este proyecto fue desarrollado como una plataforma web para organizar y presenta
 * Investigación Científica de Proyectos
 
 AF-900Z tiene como propósito documentar de forma profesional el crecimiento académico y técnico adquirido durante la formación universitaria.
+
+Autor
+Proyecto desarrollado como sistema empresarial inteligente utilizando tecnologías modernas de desarrollo en Python.
+
+© 2026 Fabian Andres Gutierrez Gomez. All rights reserved.
