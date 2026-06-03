@@ -1,0 +1,196 @@
+🧩 BLOQUE 1 — Programación y Desarrollo de Software
+
+Todo lo relacionado con código, algoritmos y construcción de aplicaciones.
+
+Fundamentos
+
+Programación Básica
+
+Introducción a la Programación
+
+Programación Intermedia
+
+Estructuras y Algoritmos
+
+Estructuras de Datos
+
+Programación Cliente/Servidor Concurrente
+
+Desarrollo y Arquitectura
+
+Diseño y Desarrollo de Sistemas
+
+Implantación de Sistemas
+
+Tecnologías y Automatización
+
+Automatización Robótica de Procesos (RPA)
+
+Computación en la Nube
+
+🧩 BLOQUE 2 — Matemáticas Aplicadas
+
+Todo lo que soporta análisis, modelado, IA y ciencia de datos.
+
+Matemáticas Fundamentales
+
+Matemática Básica
+
+Matemática Discreta
+
+Cálculo
+
+Cálculo I
+
+Cálculo II
+
+Cálculo III
+
+Álgebra / Modelado
+
+Álgebra Lineal
+
+Ecuaciones Diferenciales
+
+Métodos Numéricos
+
+🧩 BLOQUE 3 — Estadística, Probabilidad y Ciencia de Datos
+
+Todo lo que te prepara para análisis, predicción y machine learning.
+
+Bases estadísticas
+
+Probabilidad y Estadística Descriptiva
+
+Probabilidad y Estadística Inferencial
+
+Ciencia de Datos y Big Data
+
+Introducción a la Ciencia de Datos
+
+Big Data (Macro Datos)
+
+Analítica Predictiva para Negocios
+
+Machine Learning (Aprendizaje Automático)
+
+Aprendizaje Automático (Machine Learning)
+
+Inteligencia Artificial I
+
+Inteligencia Artificial II
+
+Inteligencia Artificial Avanzada (Optativa)
+
+Visión Artificial (Optativa)
+
+Visualización de Datos
+
+Visualización de Datos
+
+Visualización de Datos Avanzada (Optativa)
+
+Preparación y Gobierno del Dato
+
+Preparación de Datos Avanzada (Optativa)
+
+Gobernanza de Datos (Optativa)
+
+🧩 BLOQUE 4 — Bases de Datos
+
+Todo lo relacionado con modelado, administración y explotación de bases de datos.
+
+Relacionales
+
+Fundamentos de Diseño de Base de Datos Relacionales
+
+Administración de Base de Datos
+
+No Relacionales
+
+Bases de Datos NoSQL (base de datos no relacional)
+
+Data Warehouse y Multidimensional
+
+Data Warehouse y Bases de Datos Multidimensionales
+
+Inteligencia de Negocios I
+
+Inteligencia de Negocios II
+
+🧩 BLOQUE 5 — Ingeniería de Software y Gestión de Proyectos
+
+Todo lo relacionado con metodologías, análisis y desarrollo profesional.
+
+Metodologías y Gestión
+
+Metodología de Desarrollo de Proyectos
+
+Administración de Proyectos (Optativa)
+
+Requerimientos y Modelado
+
+Análisis y Modelado de Requerimientos
+
+🧩 BLOQUE 6 — Tecnologías Empresariales y Financieras
+
+Enfoque en negocios, fintech y aplicaciones empresariales.
+
+Negocios y Estrategia
+
+Inteligencia de Negocios I
+
+Inteligencia de Negocios II
+
+Finanzas y Tecnología
+
+Introducción al Sector de las Tecnologías Financieras
+
+Aplicaciones de Tecnología de Cadena de Bloques en las Finanzas
+
+🧩 BLOQUE 7 — Humanidades, Habilidades Blandas y Comunicación
+
+Todo lo que desarrolla habilidades personales y profesionales.
+
+Comunicación, Liderazgo y Pensamiento
+
+Electivas Humanísticas (Comunicación, Liderazgo, Pensamiento Crítico, etc.)
+
+Inteligencia Emocional
+
+Transformación Digital
+
+🧩 BLOQUE 8 — Investigación Científica
+
+Cursos que te preparan para realizar proyectos de investigación.
+
+Principios y Técnicas de Investigación
+
+📘 Resumen para Portafolio (versión compacta y profesional)
+🔵 Programación y Desarrollo
+
+Dominio de programación estructurada, orientada a objetos, concurrencia, estructuras de datos, automatización (RPA) y despliegue en la nube.
+
+🟢 Matemáticas Aplicadas
+
+Cálculo, álgebra lineal, matemática discreta, ecuaciones diferenciales y métodos numéricos para modelado y análisis.
+
+🟣 Ciencia de Datos e Inteligencia Artificial
+
+Estadística, análisis predictivo, machine learning, big data, IA avanzada, visión artificial, preparación y visualización de datos.
+
+🟡 Bases de Datos y BI
+
+Diseño de bases de datos, SQL, NoSQL, administración, datawarehouse, OLAP, inteligencia de negocios.
+
+🟠 Ingeniería de Software
+
+Requerimientos, análisis, metodologías ágiles, documentación y gestión de proyectos.
+
+🔴 Tecnologías Empresariales
+
+Finanzas tecnológicas, blockchain aplicado y estrategia de negocios basada en datos.
+
+⚫ Humanidades
+
+Comunicación, liderazgo, competencias blandas e inteligencia emocional.
